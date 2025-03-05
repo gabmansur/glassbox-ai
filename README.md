@@ -22,7 +22,6 @@ Artificial intelligence is shaping our world at an accelerating pace, from autom
 📌 **Phase 3:** Develop real-time AI response analysis.  
 📌 **Phase 4:** Expand to bias detection & model auditing.  
 
----
 
 ## **🛠 Tech Stack**
 - **Backend:** FastAPI (Python)  
@@ -30,21 +29,19 @@ Artificial intelligence is shaping our world at an accelerating pace, from autom
 - **Frontend:** Next.js, Tailwind CSS  
 - **Data Processing:** NLP techniques & log probability extraction  
 
----
 
 ## **🚧 Current Status**
 ✅ **Step 1:** Backend setup & OpenAI API integration  
 ⏳ **Step 2:** Extracting AI reasoning & log probabilities  
 ⏳ **Step 3:** Building an interactive frontend to showcase AI thinking  
 
----
 
 ## **🔗 Want to Help?**
 👾 **Star the repo** to follow progress.  
 🛠 **Pull requests welcome**—open issues, share ideas.  
 🤝 **Connect with me**—always open to AI transparency discussions.  
 
----
+
 
 🔥 **GlassBox AI → Because AI shouldn’t be a mystery.**  
 💀 **Welcome to the rabbit hole.** 🚀
