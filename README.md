@@ -2,15 +2,14 @@
 
 GlassBox AI is a tool designed to reverse engineer AI's reasoning process and provide a breakdown of why it made specific choices. 
 
-## **💡 Motivation**
-Artificial intelligence is shaping our world at an accelerating pace, from **automated hiring decisions** to **predictive healthcare models** and **financial risk assessments.** But there's a big problem: **AI doesn’t explain itself.**
-We don’t really know **how or why** AI models reached this or that conclusion. The world is relying on **black-box systems** with **hidden biases, unknown logic and unverifiable reasoning.**  
+## 💡 Motivation
+Artificial intelligence is shaping our world at an accelerating pace, from automated hiring decisions to predictive healthcare models and financial risk assessments. But here's the thing: AI doesn’t explain itself. We can't really know how or why AI models reached this or that conclusion. More and more, the world is relying on blackbox systems with hidden biases, unknown logic and unverifiable reasoning. 
 
 💡 **The challenge:** AI decision making is opaque.  
 💀 **The risk:** Bias, misinformation, and flawed logic can go undetected.  
 🚀 **The mission:** Make AI **transparent, explainable, and accountable.**  
 
-## **⚡ What This Project Does**
+## What This Project Does
 ✔ **Highlights AI’s reasoning process** → Identifies the most influential parts of an AI-generated response.  
 ✔ **Token impact visualization** → Shows how much weight was given to different words or phrases.  
 ✔ **Simplifies AI transparency** → Makes explainability accessible without overwhelming complexity.  
