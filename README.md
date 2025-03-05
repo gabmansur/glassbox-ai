@@ -1,6 +1,6 @@
 # 🔎 GlassBox AI: making AI Transparent
 
-GlassBox AI is a tool designed to reverse engineer AI's reasoning process and provide a breakdown of why it made specific choices. 
+Hi frens! GlassBox AI is a tool I'm designing to reverse engineer AI's reasoning process, breaking down why it makes certain choices and how it weighs different inputs. This is just the first in a series of small but impactful projects I want to develop to tackle real-world AI challenges, from ethical concerns to transparency issues, as AI becomes increasingly embedded in our lives.
 
 ## 💡 Motivation
 Artificial intelligence is shaping our world at an accelerating pace, from automated hiring decisions to predictive healthcare models and financial risk assessments. But here's the thing: AI doesn’t explain itself. We can't really know how or why AI models reached this or that conclusion. More and more, the world is relying on blackbox systems with hidden biases, unknown logic and unverifiable reasoning. 
@@ -38,10 +38,7 @@ Artificial intelligence is shaping our world at an accelerating pace, from autom
 
 ## **🔗 Want to Help?**
 👾 **Star the repo** to follow progress.  
-🛠 **Pull requests welcome**—open issues, share ideas.  
-🤝 **Connect with me**—always open to AI transparency discussions.  
+🛠 **Pull requests welcome**; open issues, share ideas.  
+🤝 **Connect with me!** always open to AI transparency discussions.  
 
-
-
-🔥 **GlassBox AI → Because AI shouldn’t be a mystery.**  
-💀 **Welcome to the rabbit hole.** 🚀
+💀 **Welcome to the rabbit hole.**
